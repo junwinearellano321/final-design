@@ -1,0 +1,8 @@
+C:\Users\User\OneDrive\Documents\Car Rental\Car Rental\obj\Debug\net8.0-windows\Car_Rental.Form1.resources
+C:\Users\User\OneDrive\Documents\Car Rental\Car Rental\obj\Debug\net8.0-windows\Car_Rental.Properties.Resources.resources
+C:\Users\User\OneDrive\Documents\Car Rental\Car Rental\obj\Debug\net8.0-windows\Car Rental.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Documents\Car Rental\Car Rental\obj\Debug\net8.0-windows\Car Rental.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Documents\Car Rental\Car Rental\obj\Debug\net8.0-windows\Car Rental.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Documents\Car Rental\Car Rental\obj\Debug\net8.0-windows\Car Rental.AssemblyInfo.cs
+C:\Users\User\OneDrive\Documents\Car Rental\Car Rental\obj\Debug\net8.0-windows\Car Rental.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documents\Car Rental\Car Rental\obj\Debug\net8.0-windows\Car_Rental.Form2.resources
